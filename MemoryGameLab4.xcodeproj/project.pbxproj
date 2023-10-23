@@ -11,6 +11,8 @@
 		92886F342AE6E5ED00AE59CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92886F332AE6E5ED00AE59CC /* ContentView.swift */; };
 		92886F362AE6E5EF00AE59CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92886F352AE6E5EF00AE59CC /* Assets.xcassets */; };
 		92886F392AE6E5EF00AE59CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92886F382AE6E5EF00AE59CC /* Preview Assets.xcassets */; };
+		92886F402AE6E65500AE59CC /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92886F3F2AE6E65500AE59CC /* CardView.swift */; };
+		92886F422AE6E67C00AE59CC /* ThemeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92886F412AE6E67C00AE59CC /* ThemeButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		92886F332AE6E5ED00AE59CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		92886F352AE6E5EF00AE59CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92886F382AE6E5EF00AE59CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		92886F3F2AE6E65500AE59CC /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		92886F412AE6E67C00AE59CC /* ThemeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				92886F332AE6E5ED00AE59CC /* ContentView.swift */,
 				92886F352AE6E5EF00AE59CC /* Assets.xcassets */,
 				92886F372AE6E5EF00AE59CC /* Preview Content */,
+				92886F3F2AE6E65500AE59CC /* CardView.swift */,
+				92886F412AE6E67C00AE59CC /* ThemeButton.swift */,
 			);
 			path = MemoryGameLab4;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				92886F342AE6E5ED00AE59CC /* ContentView.swift in Sources */,
+				92886F402AE6E65500AE59CC /* CardView.swift in Sources */,
 				92886F322AE6E5ED00AE59CC /* MemoryGameLab4App.swift in Sources */,
+				92886F422AE6E67C00AE59CC /* ThemeButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
